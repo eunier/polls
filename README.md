@@ -1,6 +1,6 @@
 # Polls
 
-## Django Poll web app that use Django Poll web app that use SQLite for the database
+## Django Poll web app that use SQLite for the database
 
 <img width="800" alt="main" src="https://github.com/eunier14/Polls/blob/master/polls/static/polls/picture/main.png">
 <img width="800" alt="question" src="https://github.com/eunier14/Polls/blob/master/polls/static/polls/picture/question.png">
